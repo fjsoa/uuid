@@ -3,7 +3,7 @@
 - [BTC全网资金](http://www.mnstkj.net/currencies/BTC/1.html "全网资金")
 - [山寨币指数](https://www.blockchaincenter.net/altcoin-season-index/)
 - [比特币彩虹图](https://www.blockchaincenter.net/bitcoin-rainbow-chart/)
-- [Transparent PNG](https://png-pixel.com "透明的PNG像素 Base64编码")
+- [BTC量化分析研报](https://www.abuquant.com/report/abu_context/output_coin_day_ln/report/BTC/pc.html)
 - [JSLinux](https://bellard.org/jslinux "基于浏览器的操作系统")
 - [IP.SB](https://ip.sb)
 - [Ping](https://ping.pe)
