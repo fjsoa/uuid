@@ -1,6 +1,6 @@
 - [大单期权](https://btctom.com/options/big/btc "btc期权")
-- [BTC主力资金](https://www.qkl123.com/data/main_funds/btc)
-- [TinyPNG](https://tinypng.com "图片压缩")
+- [BTC主力散户资金](https://www.qkl123.com/data/main_funds/btc)
+- [BTC全网资金](http://www.mnstkj.net/currencies/BTC/1.html "全网资金")
 - [Squoosh图片压缩](https://tiny.netnr.eu.org)
 - [Photoshop](https://www.uupoop.com "在线PS")
 - [Transparent PNG](https://png-pixel.com "透明的PNG像素 Base64编码")
